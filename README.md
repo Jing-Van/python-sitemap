@@ -18,6 +18,11 @@ Number of links crawled : 108
 Number of link block by robots.txt : 0
 Number of link exclude : 2
 Nb Code HTTP 200 : 108    
+
+## result verify
+sitemapimagessecretweapon.xml has images in sitemap.xml from crawl output
+For more static file retrieval, can extend in a similar way as images
+
 #### --images Enable Image Sitemap
 
 #### --report Enable report for print summary of the crawl:
